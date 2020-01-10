@@ -10,3 +10,5 @@ Key Features:
 - Preview and edit the result
 - Text encoding in qr code
 - Saving qr code in device memory
+
+download for android https://play.google.com/store/apps/details?id=com.ed.odin.qr
