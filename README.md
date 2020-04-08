@@ -1,3 +1,4 @@
+# QR_master
 web application for scanning creation and edit QR codes.
 To scan, point selected camera on qr code or upload a picture with its image.
 
