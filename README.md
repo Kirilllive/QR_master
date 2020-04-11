@@ -1,7 +1,8 @@
-![QR Master screens](screens.png)
 # QR_master
 web application for scanning creation and edit QR codes.
 To scan, point selected camera on qr code or upload a picture with its image.
+
+![QR Master screens](screens.png)
 
 Result is not opened immediately in Internet browser, but is displayed in field previewed where it can be edited, opened in the browser, or saved in the device’s memory, which allows encrypting not only Internet links, but also any other text like a phone number or email.
 
