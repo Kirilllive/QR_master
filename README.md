@@ -14,4 +14,4 @@ Key Features:
 - Text encoding in qr code
 - Saving qr code in device memory
 
-download for android https://play.google.com/store/apps/details?id=com.ed.odin.qr
+Download for android https://play.google.com/store/apps/details?id=com.ed.odin.qr
