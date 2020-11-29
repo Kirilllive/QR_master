@@ -1,18 +1,17 @@
 # QR_master
-web application for scanning creation and edit QR codes.
-To scan, point selected camera on qr code or upload a picture with its image.
+To scan, point the selected camera on a qr code or select a picture from your gallery.
 
 ![QR Master screens](screens.png)
 
-Result is not opened immediately in Internet browser, but is displayed in field previewed where it can be edited, opened in the browser, or saved in the device’s memory, which allows encrypting not only Internet links, but also any other text like a phone number or email.
+The result obtained does not open immediately in the Internet browser, but is displayed in the preview field where it can be edited, opened in the browser, or saved in the device's memory, which allows encrypting not only Internet links, but also any other text such as a phone number or email.
 
-To encrypt the text and create the qr code, enter the text in  corresponding field, after generating the code, it can be saved in  device memory in .png image format or scanned by other devices.
+To encrypt the text and create a qr code, enter the text in the appropriate field, after generating the code, it can be saved in the device's memory in .png format or scanned to other devices.
 
 Key Features:
 - Scan through any available camera on device
 - Preview and edit the result
-- Text encoding in qr code
-- Saving qr code in device memory
+- Encrypt text into a QR code
+- Save QR codes in the device memory
 
 Download for android https://play.google.com/store/apps/details?id=com.ed.odin.qr
 
