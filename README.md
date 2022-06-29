@@ -13,6 +13,4 @@ Key Features:
 - Encrypt text into a QR code
 - Save QR codes in the device memory
 
-Download for android https://play.google.com/store/apps/details?id=com.ed.odin.qr
-
 For web browsers https://kirilllive.github.io/QR_master/
